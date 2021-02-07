@@ -13,4 +13,4 @@ Latent dirichlet allocation (LDA; Blei et al., 2003) is one of topic models that
 LDA considers each document as a mixture of topics. With LDA, we can estimate which topic dominates each document. In the example data, examinees' responses were scored with from 0 to 4 points. The figure below shows average topic proportions for documents with different points. Responses with different points tended to have different mixtures of topics. 
 
 
-![Image of topic proportions |100x200, 50%](https://github.com/Kim-s-h/myRplots/blob/master/LDA/2021-02-01-EMIP-LDA-tile.png)
+![Image of topic proportions |100x200, 10%](https://github.com/Kim-s-h/myRplots/blob/master/LDA/2021-02-01-EMIP-LDA-tile.png)
